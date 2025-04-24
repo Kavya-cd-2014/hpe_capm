@@ -140,7 +140,6 @@ annotate service.POs with @(
     ]
 );
 
-
 annotate service.POItems with @(
     ///create a table for PO items columns
     UI.LineItem:[
